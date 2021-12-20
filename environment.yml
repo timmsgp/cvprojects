@@ -2,5 +2,5 @@ dependencies:
   - python = 3.10
   - numpy
   - matplotlib = 3.5.0
-  - sciplotlib = 0.0.6
-  - opencv-python = 4.5.4.60 
+  - sciplotlib
+  - opencv
