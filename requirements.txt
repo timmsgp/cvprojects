@@ -1,4 +1,4 @@
-opencv-python~=4.4.0
+opencv-python
 numpy~=1.18.0
 matplotlib~=3.2.0
 tensorflow
